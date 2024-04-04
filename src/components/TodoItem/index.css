@@ -1,0 +1,24 @@
+.list-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.todo-item {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+}
+.btn {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 12px;
+  border-radius: 5px;
+  border-color: #ff0b37;
+  border-width: 2px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
